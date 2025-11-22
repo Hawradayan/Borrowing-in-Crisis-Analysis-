@@ -3,14 +3,14 @@
 
 ### *Home Mortgage Disclosure Act — Florida, USA*
 
-## ** Overview**
+## **Overview**
 
 This project analyzes six years of Home Mortgage Disclosure Act (HMDA) data from Florida (2018–2023) to understand how borrower behavior and lending activity changed before, during, and after the COVID-19 shock.
 The goal is to identify shifts in loan demand, approval patterns, refinancing trends, and borrower risk levels. 
 
 ---
 
-## ** Dataset Summary**
+## **Dataset Summary**
 
 * **Location:** Florida, USA
 * **Applications:** 5.5 million
